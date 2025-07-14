@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="bendy-sao-middle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.376"
+     inkscape:cx="434.18647"
+     inkscape:cy="351.57678"
+     inkscape:window-width="3787"
+     inkscape:window-height="2136"
+     inkscape:window-x="53"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3"
+       style="opacity:0.6949;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.100021;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 108.4068,68.5827 h 1.983 c 0.1322,0 0.2644,0.13236 0.2644,0.26472 v 5.89002 c 0,0.13236 -0.1322,0.26472 -0.2644,0.26472 h -1.983 c -0.1322,0 -0.2644,-0.13236 -0.2644,-0.26472 v -5.89002 c 0,-0.13236 0.1322,-0.26472 0.2644,-0.26472 z m -15.7979,0 h 1.983 c 0.1322,0 0.2644,0.13236 0.2644,0.26472 v 5.89002 c 0,0.13236 -0.1322,0.26472 -0.2644,0.26472 h -1.983 c -0.1322,0 -0.2644,-0.13236 -0.2644,-0.26472 v -5.89002 c 0,-0.13236 0.1322,-0.26472 0.2644,-0.26472 z m 19.3673,-3.9708 -2.5118,-2.18394 H 105.234 V 75.5316 l -0.1983,0.26472 H 97.963 L 97.6325,75.5316 V 62.42796 h -4.2304 l -2.3135,1.6545 v 16.94208 h 2.5779 c 4.2965,-3.44136 9.3201,-5.16204 15.4674,0 h 2.8423 z m -3.5694,23.7108 h 1.983 c 0.1322,0 0.2644,0.13236 0.2644,0.26472 v 5.89002 c 0,0.13236 -0.1322,0.26472 -0.2644,0.26472 h -1.983 c -0.1322,0 -0.2644,-0.13236 -0.2644,-0.26472 v -5.89002 c 0,-0.13236 0.1322,-0.26472 0.2644,-0.26472 z m -15.7979,0 h 1.983 c 0.1322,0 0.2644,0.13236 0.2644,0.26472 v 5.89002 c 0,0.13236 -0.1322,0.26472 -0.2644,0.26472 h -1.983 c -0.1322,0 -0.2644,-0.13236 -0.2644,-0.26472 v -5.89002 c 0,-0.13236 0.1322,-0.26472 0.2644,-0.26472 z m 19.3673,-3.9708 -2.5118,-2.18394 H 105.234 V 95.2716 l -0.1983,0.26472 H 97.963 L 97.6325,95.2716 V 82.16796 h -4.2304 l -2.3135,1.6545 v 16.94208 h 2.5779 c 4.2965,-3.44136 9.3201,-5.16204 15.4674,0 h 2.8423 z" />
+  </g>
+</svg>
